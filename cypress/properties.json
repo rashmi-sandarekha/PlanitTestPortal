@@ -1,0 +1,20 @@
+{
+  "homeURL": "https://jupiter.cloud.planittesting.com/",
+  "dashboardURL": "https://public:Let$BeC001@bgp-qa.gds-gov.tech/dashboard",
+  "companyProfileURL": "https://public:Let$BeC001@bgp-qa.gds-gov.tech/company",
+  "login": {
+    "success": {
+      "NRIC:": "S1234xxxA",
+      "Name:": "Tan Ah Kow",
+      "UEN:": "BGPQEDEMO"
+    }
+  },
+
+  "mainContactPerson": {
+    "Name": "Rush Sandy",
+    "Job Title": "Software Engineer",
+    "Contact No": "0773333434",
+    "Email": "testuser_rushsandy@yopmail.com",
+    "Alternate Contact Person's Email": "altemali_rushsandy@yopmail.com"
+  }
+}

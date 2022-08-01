@@ -1,0 +1,25 @@
+{
+  "name": "demo-rashmi",
+  "version": "1.0.0",
+  "description": "demo rashmi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "rashmi",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.0.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
