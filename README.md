@@ -1,3 +1,4 @@
+
 # Jupiter Cloud Platform Automation Implementation with Cypress
 
 This repository contains the automated tests written for end-to-end test cases using Cypress Automation Framework with a BDD Cucumber Integration.
@@ -167,10 +168,12 @@ E.g. If any Gherking criteria is prefixed with the alias as `setup` , the criter
 Here with the test results of the test executions:
 
 ### contactUs
-https://ibb.co/Bsmn0M7
+![contactUs](https://i.ibb.co/7yHksmT/Screenshot-2022-08-02-at-10-04-48-AM.png)
+  
 
 ### shop
-https://ibb.co/kHnD2vr
+![shop](https://i.ibb.co/FxvY4Cf/Screenshot-2022-08-02-at-10-05-34-AM.png)
+
 
 
 ## Assumptions
@@ -209,6 +212,9 @@ API assertions are also included in some tests.
 
 
 Likewise, we can include the API level assertions on any of the relevant scenarios for further verification purposes
+  
+  ## Continues Integration with Jenkins
+  Currently this has been setup locally for demo purpose. 
 
 ## FAQ:
 
