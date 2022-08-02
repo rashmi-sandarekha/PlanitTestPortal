@@ -58,10 +58,10 @@ By using the terminal, traverse to the destination directory, where you need to 
 
 #### Step2: Clone Repository
 
-//add the clone url
+`git@github.com:rashmi-sandarekha/PlanitTestPortal.git`
 
 2.1. cd into the cloned repo
-//add to traverse the folder
+`cd PlanitTestPortal`
 
 #### Step 3: Install npm
 
@@ -150,7 +150,7 @@ The test run commands are appended in the `scripts` in `package.json`
 
 #### 2. Cucumber with Gherkin
 
-The default Cypress does not include Cucumber and, the Gov Tech has optimized the BDD Framework using Cucumber- Gherkin.
+The default Cypress does not include Cucumber and, this has optimized the BDD Framework using Cucumber- Gherkin.
 
 
 #### 3. Folder Structre
@@ -167,11 +167,10 @@ E.g. If any Gherking criteria is prefixed with the alias as `setup` , the criter
 Here with the test results of the test executions:
 
 ### contactUs
-
-//add a screen shot
+https://ibb.co/Bsmn0M7
 
 ### shop
-
+https://ibb.co/kHnD2vr
 
 
 ## Assumptions
